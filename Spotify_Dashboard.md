@@ -1,40 +1,41 @@
-# 📈 Coffee Shop Sales Performance (Power BI, DAX, Excel, SQL)
+# 🚀 Spotify Analysis Dashboard  (Power BI, DAX, Excel)
 
 ## 🔹 Overview  
 •	Designed an understanding dashboard of listening patterns focused on albums, artists and tracks, providing insights into user engagement.
 •	Analysis of listening patterns by listening hours ans average listening time vs track frequency.
 
-## 🔹 Key Features  
+## 🔹 Key Features  for Albums, Artists ans Tracks
 
-✔ **Time Intelligence Metrics** (MTD, PMTD, MoM Growth) for:  
-  - Total Sales  
-  - Total Orders  
-  - Total Quantity Sold  
+✔ **Time Intelligence Metrics Year** (CY, PY, YoY Growth).
 
-✔ **Advanced Tooltips** for daily insights  
+✔ **Trending over the years** 
 
-✔ **Sales Performance Analysis**  
-  - Weekday vs. Weekend trends  
-  - Store location performance  
-  - Sales distribution by product category and type  
+✔ **Comparison patterns on weekdays and weekends**  
     
-✔ **Hourly Sales Analysis**  
-  - Identification of peak hours for resource optimization  
+✔ **Top 5**  
+
+✔ **Listening patterns per hour of the week days**  
+
+✔ **Correlation of Track Frequncy and average Listening time**  
 
 ## 🔹 Tools & Technologies Used  
 🛠 **Power BI** | **DAX** | **SQL** | **Excel**  
 
 ## 📂 Dataset  
-- **Coffee Shop Sales Dataset** – *(Uploading Coffee Shop Sales.csv…)*  
+- **Spotify Dataset** – [spotify_history.csv](https://github.com/user-attachments/files/19580111/spotify_history.csv)
+
 
 ## 🔹 Files (.pbix, .sql)  
 📂 Access the dataset and Power BI reports here:  
-[Google Drive Link](https://drive.google.com/drive/folders/1b7xXc95je9KMUn_7DZ8SMsRiDGzikZot?usp=sharing)  
+https://drive.google.com/drive/folders/1q843To6-IBSCowbXIeeNAwfAHOynBj2W?usp=sharing
 
 ## 📸 Dashboard Preview  
 
 ### 📊 Overview  
-![Dashboard Overview](https://github.com/user-attachments/assets/df352ad3-c811-43c7-b7a3-566957e27a51)  
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/fd721d30-6937-4783-8bd1-3a3d2f2cb51f" />
 
-### 🔎 Tooltip Insights  
-![Tooltip Insights](https://github.com/user-attachments/assets/885a318d-6482-4c44-9070-758583d49bed)  
+### 🔎Listening Patterns  
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/24f4da06-ddd8-4159-ac31-264a474faf88" />
+
+### 🔎Details
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/306df40f-c604-44a3-862d-8546ec17f63b" />
