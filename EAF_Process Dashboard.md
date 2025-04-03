@@ -43,21 +43,28 @@ The EAF melting process is highly complex and requires **rigorous daily monitori
   - **Electrode wear**  
   - **Refractory wear**  
 
+## 📂 Dataset & Files  
 
+- **General Specifications, Problem statement and Insights** –
+    [EAF_Process_Dashboard_FullAnalysis.pdf](https://github.com/user-attachments/files/19579515/EAF_Process_Dashboard_FullAnalysis.pdf)
+
+- **Meltshop Dataset** –
+  [Steel_Meltshop_DB_Cleaned.xlsx](https://github.com/user-attachments/files/19579519/Steel_Meltshop_DB_Cleaned.xlsx)
+
+- **Steel_Production_KPI.pbix** – Power BI dashboard
+https://drive.google.com/drive/folders/1pMtXTmZP6PAoI1oVk8_yhl7BpAr8ZwEd?usp=sharing
+
+  
 ## 📸 Dashboard Previews  
 
-###  Summary  
-
-
-
 ###  KPI Overview  
+<img width="589" alt="image" src="https://github.com/user-attachments/assets/bc4da507-cb78-4665-b548-e9412b526103" />
+
+###  Consumptions  
+<img width="586" alt="image" src="https://github.com/user-attachments/assets/4a964bdb-ed23-457e-bb56-a03a8e7dae78" />
+
+###  Operative Costs
+<img width="595" alt="image" src="https://github.com/user-attachments/assets/c2df033a-94b4-4c11-98a6-d8f7aa757549" />
 
 
-
-###  Details  
-<img width="541" alt="image" src="https://github.com/user-attachments/assets/384d2fa2-c069-4a85-a9cc-781968e23954" />
-
-## 🔹 Files (.pbix, .sql)  
-📂 Access datasets and Power BI reports here:  
-[Google Drive - BI Analytics Portfolio](https://drive.google.com/drive/folders/1x77KwEE2CpWEBqkkJICs4azKDxYCVBVp?usp=sharing)
 
