@@ -20,7 +20,7 @@ This dashboard provides a comprehensive analysis of listening patterns, focusing
 ## 📂 Dataset  
 - **Spotify Dataset** – [spotify_history.csv](https://github.com/user-attachments/files/19580111/spotify_history.csv)  
 
-## 🔹 Files (.pbix, .sql)  
+## 🔹 Files (.pbix, .csv)  
 📂 Access the dataset and Power BI reports here:  
 [Google Drive - Project Files](https://drive.google.com/drive/folders/1q843To6-IBSCowbXIeeNAwfAHOynBj2W?usp=sharing)  
 
