@@ -37,8 +37,10 @@ This executive-level dashboard provides a comprehensive analysis of bank loan ap
 <img width="541" alt="image" src="https://github.com/user-attachments/assets/0f9c0570-af8c-477e-8756-715ee3024f37" />
 
 ###  Overview  
-<img width="540" alt="image" src="https://github.com/user-attachments/assets/e8a84844-bfab-434e-9a88-3a6802e9142f" />
+<img width="543" alt="image" src="https://github.com/user-attachments/assets/48e34f7b-81f9-496e-97b0-723b66be53ca" />
+
 
 ###  Details  
-<img width="545" alt="image" src="https://github.com/user-attachments/assets/8cd408ff-4046-4940-81e2-58da0230e20b" />
+<img width="541" alt="image" src="https://github.com/user-attachments/assets/384d2fa2-c069-4a85-a9cc-781968e23954" />
+
 
