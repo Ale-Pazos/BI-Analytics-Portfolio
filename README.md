@@ -44,4 +44,6 @@ This executive-level dashboard provides a comprehensive analysis of bank loan ap
 ###  Details  
 <img width="541" alt="image" src="https://github.com/user-attachments/assets/384d2fa2-c069-4a85-a9cc-781968e23954" />
 
-
+## 🔹 Files (.pbix, .sql)  
+📂 Access datasets and Power BI reports here:  
+[Google Drive - BI Analytics Portfolio](https://drive.google.com/drive/folders/1x77KwEE2CpWEBqkkJICs4azKDxYCVBVp?usp=sharing)
