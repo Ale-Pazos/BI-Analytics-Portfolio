@@ -29,8 +29,6 @@ This dashboard provides an effective way to track and analyze car sales performa
 ### 📊 **Overview**  
 ![Dashboard Overview](https://github.com/user-attachments/assets/972c6572-6623-44e2-80b9-b4c8363abdd4)  
 
-### 🔎 **Sales Trends**  
-![Sales Trends](https://github.com/user-attachments/assets/24f4da06-ddd8-4159-ac31-264a474faf88)  
 
 ### 🔎 **Details**  
 ![Sales Details](https://github.com/user-attachments/assets/467c34de-8e78-4727-9402-869e714cf12b)  
