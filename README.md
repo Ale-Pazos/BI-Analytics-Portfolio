@@ -27,10 +27,12 @@ This dashboard provides an analytical view of hospital emergency visits, helping
 ## 📸 Dashboard Preview
 
 ### 📊 **Monthly View**
-![Monthly View](https://github.com/user-attachments/files/monthly-view.png)
+![image](https://github.com/user-attachments/assets/97196989-a6d1-4acc-9de8-613cd2440bf1)
+
 
 ### 📊 **Consolidated View**
-![Consolidated View](https://github.com/user-attachments/files/consolidated-view.png)
+![image](https://github.com/user-attachments/assets/f95fd750-08f9-4b62-af6e-c9d356b319c0)
+
 
 ### 📊 **Patient Details**
 ![image](https://github.com/user-attachments/assets/b5209c83-dc08-4314-909a-66be348dab79)
