@@ -5,7 +5,7 @@ This dashboard provides an effective way to track and analyze pizza sales perfor
 
 ## 🔹 Key Features  
 
-✔ **Evaluation of Total Orders per week day:** 
+✔ **Evaluation of Total Orders per week day** 
 ✔ **Monthly trend for total orders.**  
 ✔ **Evaluation of Sales by pizza category and size**  
 ✔ **Top 5 best sellers pizza (names) by quantity, revenue and orders**  
