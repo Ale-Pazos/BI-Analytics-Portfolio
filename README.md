@@ -1,14 +1,18 @@
 📊 [Bank Loan Report Dashboard] (Power BI, Excel, DAX, SQL)
 
 ##🔹 Overview
+
 •	Created an executive-level dashboard to monitor Total loan applications, Founded Amount $ Vs Amount received, debt-to-income-ratio, analysis of bad loans (delinquency).
 •	Analysis per Month (MTD, PMTD, MoM), by State, term, by purpose, etc.
 
 ##🔹Key Features
 
 ✔ ** Monthly Time Intelligence MTD, PMTD, MoM of main KPI: Total Loan Application, Funded Amount, Amount Received, Average interest Rate and Debt-to-income-ratio ** 
+
 ✔ **Analysis of Good and Bad Loans (delinquency)**  
+
 ✔ **Overview by Total Loan Application, Funded Amount, Amount Received (use of parameter)**  
+
 
 ## 🔹 Tools Used  
 🛠 Power BI | DAX | SQL | Excel|   
@@ -29,9 +33,11 @@
 
 <img width="542" alt="image" src="https://github.com/user-attachments/assets/09b6d230-f499-4741-bf71-4d685ac075c6" />
 
+
 ✔ Overview-->
 
 <img width="537" alt="image" src="https://github.com/user-attachments/assets/26e1338f-aee8-42f8-a9ec-437a9f9e4e43" />
+
 
 ✔ Details-->
 
