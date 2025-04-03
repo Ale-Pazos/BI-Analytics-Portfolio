@@ -8,11 +8,17 @@ to improve profitability and operational efficiency.
 ## 🔹 Key Features
 
 ✔ **Time Intelligence Metrics:** Total Sales, Profit Margin, and Quantity Sold (YTD, PYTD, YoY).
+
 ✔ **YTD Sales Trend Analysis.**
+
 ✔ **YTD Sales Breakdown by Product Category.**
+
 ✔ **Top and Bottom 5 Products by YTD Sales.**
+
 ✔ **Sales Distribution by Region and State.**
+
 ✔ **Sales Distribution by Shipping Type.**
+
 
 ## 🔹 Tools & Technologies Used
 
@@ -21,6 +27,7 @@ to improve profitability and operational efficiency.
 ## 📂 Datasets
 
 📌 **E-commerce Sales Dataset:**📎
+
 [Uploading ecommerce_data.csv…]()
 
 [Uploading us_state_long_lat_codes.csv…]()
