@@ -1,1 +1,63 @@
+# 📊 Steel Production KPI Analysis – Electric Arc Furnace (EAF)
+
+## 📌 Overview  
+This project focuses on analyzing key production **KPIs** in steel manufacturing using the **Electric Arc Furnace (EAF)**.  
+
+The EAF melting process is highly complex and requires **rigorous daily monitoring** to:  
+✔ Ensure key performance indicators (KPIs) remain within target ranges  
+✔ Optimize **cost savings** and **productivity**  
+✔ Minimize **electrode and refractory wear**  
+
+
+## 🔧 Tools & Technologies  
+- **Power BI** – Data visualization and interactive dashboards  
+- **SQL** – Data extraction and transformation  
+- **Excel** – Preprocessing and calculations  
+
+
+## 📊 Key Insights  
+
+### 🔹 **A. Key Process KPIs**  
+- Analysis of **energy consumption, power-on time, yield, and production efficiency**.  
+- **Time Intelligence Features**:  
+  - Data tracking over **two years (2023–2024)** with month-over-month comparisons.  
+  - **KPI Indicators**:  
+    - 🟢 **Green** → Performance improvements.  
+    - 🔴 **Red** → Negative operational impacts.  
+- **Visualization of primary KPIs** categorized by different **electrical and chemical profiles**, including their combinations.  
+- **Performance analysis by steel grade** to identify optimization opportunities.  
+- **Automation System Utilization**: Percentage of heats using automated processes.  
+- **Dynamic Overview Table**:  
+  - Displays **monthly KPIs** for the selected year.  
+  - Expandable view to filter by **profile type** for deeper insights.  
+
+### 🔹 **B. Gas and Chemical Consumption Trends**  
+- **Monthly trending analysis** of gas and chemical consumption.  
+- Overview table with filters for different **production programs**.  
+
+### 🔹 **C. General Operating Costs**  
+- Detailed **cost analysis** covering:  
+  - **Energy consumption**  
+  - **Gas usage**  
+  - **Chemical additions**  
+  - **Electrode wear**  
+  - **Refractory wear**  
+
+
+## 📸 Dashboard Previews  
+
+###  Summary  
+
+
+
+###  KPI Overview  
+
+
+
+###  Details  
+<img width="541" alt="image" src="https://github.com/user-attachments/assets/384d2fa2-c069-4a85-a9cc-781968e23954" />
+
+## 🔹 Files (.pbix, .sql)  
+📂 Access datasets and Power BI reports here:  
+[Google Drive - BI Analytics Portfolio](https://drive.google.com/drive/folders/1x77KwEE2CpWEBqkkJICs4azKDxYCVBVp?usp=sharing)
 
