@@ -1,48 +1,42 @@
-📈 Coffee Shop Sales Performance (Power BI, DAX, Excel, SQL)
-🔹 Overview
-This project presents an interactive Power BI dashboard designed to analyze and optimize sales performance in a coffee shop. The dashboard provides insights into:
+# 📈 Coffee Shop Sales Performance (Power BI, DAX, Excel, SQL)
 
-Revenue and profit margins
+## 🔹 Overview  
+This project presents an **interactive Power BI dashboard** designed to analyze and optimize sales performance in a coffee shop. The dashboard provides insights into:  
+- **Revenue and profit margins**  
+- **Sales trends by category, product, and time periods**  
+- **Performance analysis by store location and peak hours**  
 
-Sales trends by category, product, and time periods
+## 🔹 Key Features  
 
-Performance analysis by store location and peak hours
+✔ **Time Intelligence Metrics** (MTD, PMTD, MoM Growth) for:  
+  - Total Sales  
+  - Total Orders  
+  - Total Quantity Sold  
 
-🔹 Key Features
-✔ Time Intelligence Metrics (MTD, PMTD, MoM Growth) for:
+✔ **Advanced Tooltips** for daily insights  
 
-Total Sales
+✔ **Sales Performance Analysis**  
+  - Weekday vs. Weekend trends  
+  - Store location performance  
+  - Sales distribution by product category and type  
+    
+✔ **Hourly Sales Analysis**  
+  - Identification of peak hours for resource optimization  
 
-Total Orders
+## 🔹 Tools & Technologies Used  
+🛠 **Power BI** | **DAX** | **SQL** | **Excel**  
 
-Total Quantity Sold
+## 📂 Dataset  
+- **Coffee Shop Sales Dataset** – *(Uploading Coffee Shop Sales.csv…)*  
 
-✔ Advanced Tooltips for daily insights
+## 🔹 Files (.pbix, .sql)  
+📂 Access the dataset and Power BI reports here:  
+[Google Drive Link](https://drive.google.com/drive/folders/1b7xXc95je9KMUn_7DZ8SMsRiDGzikZot?usp=sharing)  
 
-✔ Sales Performance Analysis
+## 📸 Dashboard Preview  
 
-Weekday vs. Weekend trends
+### 📊 Overview  
+![Dashboard Overview](https://github.com/user-attachments/assets/df352ad3-c811-43c7-b7a3-566957e27a51)  
 
-Store location performance
-
-Sales distribution by product category and type
-
-✔ Hourly Sales Analysis
-
-Identification of peak hours for resource optimization
-
-🔹 Tools & Technologies Used
-🛠 Power BI | DAX | SQL | Excel
-
-📂 Dataset
-Coffee Shop Sales Dataset – (Uploading Coffee Shop Sales.csv…)
-
-🔹 Files (.pbix, .sql)
-📂 Access the dataset and Power BI reports here:
-Google Drive Link
-
-📸 Dashboard Preview
-📊 Overview
-<img width="525" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/df352ad3-c811-43c7-b7a3-566957e27a51" />
-🔎 Tooltip Insights
-<img width="673" alt="Tooltip Insights" src="https://github.com/user-attachments/assets/885a318d-6482-4c44-9070-758583d49bed" />
+### 🔎 Tooltip Insights  
+![Tooltip Insights](https://github.com/user-attachments/assets/885a318d-6482-4c44-9070-758583d49bed)  
